@@ -1,0 +1,11 @@
+body {
+background: #000;
+color: aliceblue;
+}
+input-box {
+    background-color: whitesmoke;
+    color: darkslategray;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
